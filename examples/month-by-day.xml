@@ -1,0 +1,4143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/30/09 00:00:00</StartTime>
+		<EndTime>01/31/09 00:00:00</EndTime>
+		<UsageValue>6622</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/30/09 00:00:00</StartTime>
+		<EndTime>01/31/09 00:00:00</EndTime>
+		<UsageValue>7076</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/30/09 00:00:00</StartTime>
+		<EndTime>01/31/09 00:00:00</EndTime>
+		<UsageValue>683</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/30/09 00:00:00</StartTime>
+		<EndTime>01/31/09 00:00:00</EndTime>
+		<UsageValue>2708064</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/30/09 00:00:00</StartTime>
+		<EndTime>01/31/09 00:00:00</EndTime>
+		<UsageValue>17538379</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>10096</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>10846</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>1119</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>4162525</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>26752871</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>01/31/09 00:00:00</StartTime>
+		<EndTime>02/01/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>10099</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>10788</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>1035</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>4125671</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>26719872</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/01/09 00:00:00</StartTime>
+		<EndTime>02/02/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>10723</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>1005</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>4096939</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>26606493</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>10057</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/02/09 00:00:00</StartTime>
+		<EndTime>02/03/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>10656</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>1033</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>4078375</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>26390484</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>9971</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/03/09 00:00:00</StartTime>
+		<EndTime>02/04/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>11371</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>1170</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>4365643</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>28093964</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>10589</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/04/09 00:00:00</StartTime>
+		<EndTime>02/05/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>11952</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>1302</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>4603601</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>29548509</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>11068</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/05/09 00:00:00</StartTime>
+		<EndTime>02/06/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>11023</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>1118</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>4289569</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>27297413</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>10387</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/06/09 00:00:00</StartTime>
+		<EndTime>02/07/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>1150</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>4180223</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>26820027</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>10106</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>10875</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/07/09 00:00:00</StartTime>
+		<EndTime>02/08/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>1020</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>4163517</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>26965605</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>10200</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>10867</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/08/09 00:00:00</StartTime>
+		<EndTime>02/09/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>1164</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>4327223</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>27882688</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>10490</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>11269</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/09/09 00:00:00</StartTime>
+		<EndTime>02/10/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>1018</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>4116111</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>26717459</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>10092</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>10765</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/10/09 00:00:00</StartTime>
+		<EndTime>02/11/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>4155889</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>26795617</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>10114</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>10835</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>1087</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/11/09 00:00:00</StartTime>
+		<EndTime>02/12/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>4301958</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>27611992</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>10397</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>11183</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>1180</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/12/09 00:00:00</StartTime>
+		<EndTime>02/13/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>4456535</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>28529817</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>10742</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>11577</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>1248</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/13/09 00:00:00</StartTime>
+		<EndTime>02/14/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>4122911</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>26750079</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>10099</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>10787</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>1030</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/14/09 00:00:00</StartTime>
+		<EndTime>02/15/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/15/09 00:00:00</StartTime>
+		<EndTime>02/16/09 00:00:00</EndTime>
+		<UsageValue>26414481</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/15/09 00:00:00</StartTime>
+		<EndTime>02/16/09 00:00:00</EndTime>
+		<UsageValue>9986</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/15/09 00:00:00</StartTime>
+		<EndTime>02/16/09 00:00:00</EndTime>
+		<UsageValue>10637</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/15/09 00:00:00</StartTime>
+		<EndTime>02/16/09 00:00:00</EndTime>
+		<UsageValue>984</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/15/09 00:00:00</StartTime>
+		<EndTime>02/16/09 00:00:00</EndTime>
+		<UsageValue>4061810</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>27125471</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>10236</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>10936</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>1073</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>4194025</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/16/09 00:00:00</StartTime>
+		<EndTime>02/17/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>28466616</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>10711</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>11559</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>1262</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>4453068</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>1141878048</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>28793575728</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>843358163760</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>200071871088</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>4326816</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/17/09 00:00:00</StartTime>
+		<EndTime>02/18/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>28193379</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>10647</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>11354</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>1056</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>4334721</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/18/09 00:00:00</StartTime>
+		<EndTime>02/19/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>26918154</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>10163</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>10856</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>1054</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>4160004</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/19/09 00:00:00</StartTime>
+		<EndTime>02/20/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>10556</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>11535</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>1469</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>4491285</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>28204072</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/20/09 00:00:00</StartTime>
+		<EndTime>02/21/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>10237</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>10948</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>1076</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>4195656</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>27117091</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/21/09 00:00:00</StartTime>
+		<EndTime>02/22/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>9998</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>10672</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>1019</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>4082001</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>26473468</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/22/09 00:00:00</StartTime>
+		<EndTime>02/23/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>10537</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>11494</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>1431</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>4469269</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>28125333</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/23/09 00:00:00</StartTime>
+		<EndTime>02/24/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>10915</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>1131</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>4192604</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>26965723</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>10159</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/24/09 00:00:00</StartTime>
+		<EndTime>02/25/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>11327</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>1248</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>4363921</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>27861478</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>10484</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/25/09 00:00:00</StartTime>
+		<EndTime>02/26/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>10720</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>1027</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>4098126</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>26593138</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>10029</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/26/09 00:00:00</StartTime>
+		<EndTime>02/27/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>10929</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>1084</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>4188901</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>27055661</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>10206</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/27/09 00:00:00</StartTime>
+		<EndTime>02/28/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>10729</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>1021</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>4106205</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>26597864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>10056</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>02/28/09 00:00:00</StartTime>
+		<EndTime>03/01/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>1464</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>4766010</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>29963185</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>11231</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>12206</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>03/01/09 00:00:00</StartTime>
+		<EndTime>03/02/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>Requests-Tier1</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>390</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>ListBucket</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>1671229</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>C3DataTransfer-Out-Bytes</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>10913248</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>HeadObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>4129</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>GetObject</OperationName>
+		<UsageType>Requests-Tier2</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>4389</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>570939024</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_results</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>12</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>100035935544</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_alignment_image</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>2163408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>maverick_s3_green</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>36</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>14396787864</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sequencescape-live</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>TimedStorage-ByteHrs</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>421679081880</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonS3</ServiceName>
+		<OperationName>StandardStorage</OperationName>
+		<UsageType>StorageObjectCount</UsageType>
+		<Resource>sanger_fastq</Resource>
+		<StartTime>03/02/09 00:00:00</StartTime>
+		<EndTime>03/03/09 00:00:00</EndTime>
+		<UsageValue>347</UsageValue>
+	</OperationUsage>
+</ServiceUsage>
